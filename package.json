@@ -1,0 +1,37 @@
+{
+  "name": "gitpad-decode",
+  "version": "1.0.2",
+  "title": "each",
+  "description": "Each loop with filtering for gitpad",
+  "homepage": "https://github.com/gitpad-pl/decode#readme",
+  "author": "Tom Sapletta <tom@sapletta.com> (https://tom.sapletta.com)",
+  "company": "Softreck OÜ (https://softreck.com)",
+  "license": "MIT",
+  "main": "./lib/decode.js",
+  "directories": {
+    "test": "./test",
+    "lib": "./lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "push": "-github-push.bat",
+    "publish": "-npm-publish.bat"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gitpad-pl/decode.git"
+  },
+  "keywords": [
+    "gitpad",
+    "github",
+    "devops",
+    "javascript",
+    "library",
+    "app",
+    "each",
+    "loop"
+  ],
+  "bugs": {
+    "url": "https://github.com/gitpad-pl/decode/issues"
+  }
+}
